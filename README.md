@@ -1,1 +1,1 @@
-#Tempat penyimpanam file
+# Tempat penyimpanan file
