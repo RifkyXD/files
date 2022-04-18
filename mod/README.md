@@ -1,4 +1,4 @@
-#ini merupakan file pengganti kekuatan equipment
+ Mengganti kekuatan equipment
 ***
 
 * download file json disini [Disini]().
