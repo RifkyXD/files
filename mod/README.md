@@ -1,7 +1,7 @@
  Mengganti kekuatan equipment
 ***
 
-* download file json disini [Disini]().
+* download file json [Disini](https://raw.githubusercontent.com/RifkyXD/files/main/mod/Equipment.json).
 
 * Pindahkan file ke json ke "android/data/com.zizgagame.evertale/files/".
 
